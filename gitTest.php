@@ -8,5 +8,9 @@ class bla
 
 //        comment , just to see
     }
-}
 
+    public function add(){
+        $a = 1 ;
+        $b = $a + 2 ;
+    }
+}
