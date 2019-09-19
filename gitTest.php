@@ -7,5 +7,8 @@ class bla
         $a =  0 ;
     }
 
-//    just changes to see 
+    public function add(){
+        $a = 1 ;
+        $b = $a + 2 ;
+    }
 }
