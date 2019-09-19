@@ -6,4 +6,6 @@ class bla
     {
         $a =  0 ;
     }
+
+//    just changes to see 
 }
